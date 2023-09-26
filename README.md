@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/Tailwind_CSS-fafafa?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 ![](https://img.shields.io/badge/Firebase-fafafa?style=for-the-badge&logo=firebase&logoColor=FFA611)
 ![](https://img.shields.io/badge/Java-fafafa?style=for-the-badge&logo=java&logoColor=FFA611)
+![](https://img.shields.io/badge/C++-E34F26?style=for-the-badge&logo=c++&logoColor=white)
 ![](https://img.shields.io/badge/Git-3E2C00?style=for-the-badge&logo=git&logoColor=F1502F)
 ![](https://img.shields.io/badge/GitHub-fafafa?style=for-the-badge&logo=github&logoColor=4078c0)
 
