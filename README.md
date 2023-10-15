@@ -22,6 +22,7 @@
 ![](https://img.shields.io/badge/C++-E34F26?style=for-the-badge&logo=c++&logoColor=white)
 ![](https://img.shields.io/badge/Git-3E2C00?style=for-the-badge&logo=git&logoColor=F1502F)
 ![](https://img.shields.io/badge/GitHub-fafafa?style=for-the-badge&logo=github&logoColor=4078c0)
+![](https://img.shields.io/badge/GitHub-fafafa?style=for-the-badge&logo=vercel&logoColor=purple)
 
 ---
   
