@@ -5,24 +5,45 @@
 ---
 
 ### 🚀 About Me
-- I'm a 3rd-year B. Tech. (IT) student at the University Institute of Technology RGPV.
-- Looking to collaborate with other developers. 
-- Learning more tools and technologies which are mentioned below to build big projects.
+- 🚀 A passionate FullStack developer, creative coder and learner.
+- 🌱 Looking to collaborate with other developers. 
+- 🚀 Learning more tools and technologies which are mentioned below to build big projects.
+- 🔥 I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+- 👯 I’m looking to collaborate on Web Projects.
+- 🌱 Currently open for open-source contributions and freelancing opportunities.
+- 📫 How to reach me **tripathiabhay65@gmail.com**
 
 ---
 
-### 🧰 Toolbox
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Bootstrap-fafafa?style=for-the-badge&logo=bootstrap&logoColor=563d73)
-![](https://img.shields.io/badge/Tailwind_CSS-fafafa?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![](https://img.shields.io/badge/Firebase-fafafa?style=for-the-badge&logo=firebase&logoColor=FFA611)
-![](https://img.shields.io/badge/Java-fafafa?style=for-the-badge&logo=java&logoColor=FFA611)
-![](https://img.shields.io/badge/C++-E34F26?style=for-the-badge&logo=c++&logoColor=white)
-![](https://img.shields.io/badge/Git-3E2C00?style=for-the-badge&logo=git&logoColor=F1502F)
-![](https://img.shields.io/badge/GitHub-fafafa?style=for-the-badge&logo=github&logoColor=4078c0)
-![](https://img.shields.io/badge/GitHub-fafafa?style=for-the-badge&logo=vercel&logoColor=purple)
+<div style="display: inline_block">
+      <p align="center"><strong>Skills & Technologies</strong></p>
+  <p align="center">
+       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+      <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white">
+      <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white">
+      <img src="https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white">
+      <img src="https://img.shields.io/badge/typescript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white">
+      <img src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">
+      <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+      <img src="https://img.shields.io/badge/nodejs-%2300599C.svg?style=for-the-badge&logo=npm&logoColor=white">
+      <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white">
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+      <img src="https://img.shields.io/badge/postgres-blue.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+      <img src="https://img.shields.io/badge/mySql-gray.svg?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white">
+      <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+      <img src="https://img.shields.io/badge/adobexd-FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white">
+      <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/java-232F3E.svg?style=for-the-badge&logo=java&logoColor=white">
+      <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white">
+      <img src="https://img.shields.io/badge/greensock-88CE02.svg?style=for-the-badge&logo=greensock&logoColor=white">
+      <img src="https://img.shields.io/badge/reactrouter-CA4245.svg?style=for-the-badge&logo=reactrouter&logoColor=white">
+      <img src="https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+      <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white">
+      <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
+  </p>
+</div>
 
 ---
   
